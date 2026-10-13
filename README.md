@@ -94,24 +94,13 @@ I'm a **Full-Stack Web Developer** who blends modern web engineering with **AI-d
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/alifhosen26">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <!-- Add your other links below and remove the comment markers -->
-  <!--
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  -->
-</p>
+## 🌐 Connect With Me
 
-<div align="center">
-<i>Thanks for stopping by — let's build something intelligent together ✨</i>
-</div>
+<p align="left">
+  <a href="https://github.com/coderalif">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/alif26">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
